@@ -2,7 +2,7 @@
 This bash script will search through all active jails, unbanning the given ip's if found. 
 ## Installation
 
-`wget https://raw.githubusercontent.com/terrabyte911/Fail2ban-unban-ip-from-all-active-jails/main/UnbanAll.sh && chmod +x UnbanAll.sh`
+`wget https://raw.githubusercontent.com/terrabyte911/fail2ban-unban-ip-list-from-all-active-jails/main/UnbanAll.sh && chmod +x UnbanAll.sh`
 
 #### Usage 1
 
